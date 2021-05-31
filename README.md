@@ -1,2 +1,2 @@
 # procyon
-encryption software for learning
+Description: just a small little encryption software for learning
