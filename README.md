@@ -1,2 +1,2 @@
 # procyon
-Description: just a small little encryption software for learning
+Description: A compilation of all the encryption theories and attack methods.
